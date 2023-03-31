@@ -1,6 +1,6 @@
 Name:		texlive-multiaudience
 Version:	60688
-Release:	1
+Release:	2
 Summary:	Several versions of output from the same source
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multiaudience
