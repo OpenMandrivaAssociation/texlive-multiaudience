@@ -3,7 +3,7 @@ Version:	60688
 Release:	2
 Summary:	Several versions of output from the same source
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multiaudience
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/multiaudience
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multiaudience.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multiaudience.doc.r%{version}.tar.xz
